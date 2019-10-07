@@ -6,12 +6,12 @@ require 'border_patrol/version'
 Gem::Specification.new do |s|
   s.name = 'border_patrol'
   s.version = BorderPatrol::VERSION
-  s.authors = ['Zach Brock', 'Matt Wilson']
-  s.email = 'github@squareup.com'
-  s.date = '2013-03-05'
+  s.authors = ['Winnie Rotich']
+  s.email = 'winniecherop@outlook.com'
+  s.date = '2019-10-07'
   s.description = 'Check if points are inside or outside the region polygons in an imported KML file.'
   s.summary = 'Import and query KML regions'
-  s.homepage = 'http://github.com/square/border_patrol'
+  s.homepage = 'http://github.com/wrotich/border_patrol'
 
   s.require_paths = ['lib']
   s.files = `git ls-files`.split("\n")
